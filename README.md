@@ -13,7 +13,7 @@ Always opened for the colloborations, so I can share the joy with you. 🤸
 Thank you!
 
 ## Languages, Skills and Tools✨
-
+![javaScript](https://user-images.githubusercontent.com/61001656/96732753-a7e95700-13f3-11eb-93f7-dd8c903b8167.png)
 
 ## My Projects🧐
 

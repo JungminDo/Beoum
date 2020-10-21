@@ -17,10 +17,10 @@ Thank you!
 <thead>
 <tr>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="60" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img alt="typescript" src="https://user-images.githubusercontent.com/61001656/96733412-61482c80-13f4-11eb-9eba-fc8a2f68f41e.png" width="60" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg"><img alt="nodeJS" src="https://user-images.githubusercontent.com/61001656/96733646-a704f500-13f4-11eb-9501-e67622f9fc16.png" width="70" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg"><img alt="mariaDB" src="https://user-images.githubusercontent.com/61001656/96733752-c69c1d80-13f4-11eb-87c1-37d0ceb8469b.png" width="60" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg"><img alt="redis" src="https://user-images.githubusercontent.com/61001656/96735908-019f5080-13f7-11eb-85b3-73836a4a83c1.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733412-61482c80-13f4-11eb-9eba-fc8a2f68f41e.png"><img alt="typescript" src="https://user-images.githubusercontent.com/61001656/96733412-61482c80-13f4-11eb-9eba-fc8a2f68f41e.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733646-a704f500-13f4-11eb-9501-e67622f9fc16.png"><img alt="nodeJS" src="https://user-images.githubusercontent.com/61001656/96733646-a704f500-13f4-11eb-9501-e67622f9fc16.png" width="70" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733752-c69c1d80-13f4-11eb-87c1-37d0ceb8469b.png"><img alt="mariaDB" src="https://user-images.githubusercontent.com/61001656/96733752-c69c1d80-13f4-11eb-87c1-37d0ceb8469b.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96735908-019f5080-13f7-11eb-85b3-73836a4a83c1.png"><img alt="redis" src="https://user-images.githubusercontent.com/61001656/96735908-019f5080-13f7-11eb-85b3-73836a4a83c1.png" width="60" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>
@@ -29,9 +29,9 @@ Thank you!
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img alt="aws" src="https://user-images.githubusercontent.com/61001656/96733880-e4698280-13f4-11eb-89e0-f10a51579e52.png" width="70" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img alt="git" src="https://user-images.githubusercontent.com/61001656/96733808-d61b6680-13f4-11eb-930d-36d4e803ea85.png" width="60" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img alt="webstorm" src="https://user-images.githubusercontent.com/61001656/96733936-f8ad7f80-13f4-11eb-90b2-35b18b3fa835.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733880-e4698280-13f4-11eb-89e0-f10a51579e52.png"><img alt="aws" src="https://user-images.githubusercontent.com/61001656/96733880-e4698280-13f4-11eb-89e0-f10a51579e52.png" width="70" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733808-d61b6680-13f4-11eb-930d-36d4e803ea85.png"><img alt="git" src="https://user-images.githubusercontent.com/61001656/96733808-d61b6680-13f4-11eb-930d-36d4e803ea85.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/61001656/96733936-f8ad7f80-13f4-11eb-90b2-35b18b3fa835.png"><img alt="webstorm" src="https://user-images.githubusercontent.com/61001656/96733936-f8ad7f80-13f4-11eb-90b2-35b18b3fa835.png" width="60" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>

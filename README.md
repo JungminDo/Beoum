@@ -38,4 +38,4 @@ Thank you!
 
 
 ## 🧐 History
-✌️ <a href="https://github.com/Beoum/Beoum/blob/main/portfolio.md">View Portfolio</a>
+✌️ <a href="https://github.com/Beoum/Beoum/blob/main/portfolio.md">Portfolio</a>

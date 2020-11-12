@@ -37,5 +37,5 @@ Thank you!
 </table>
 
 
-## 🧐 History
+## 🧐 Experience
 ✌️ <a href="https://github.com/Beoum/Beoum/blob/main/portfolio.md">Portfolio</a>

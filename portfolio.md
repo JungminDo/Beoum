@@ -4,7 +4,7 @@
   
 ## 프로젝트 경력  
   
-#### 1. 장비봇 
+### 1. 장비봇 
 ||<img src="https://user-images.githubusercontent.com/61001656/99264045-5487ee80-2863-11eb-85a9-cdff6c764c98.png" width="35%" align="center">|
 |----|----| 
 |소속|올바른코드|

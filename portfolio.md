@@ -13,7 +13,7 @@
 * 역할: Back-end(100%)  
 * 사용기술: TypeScript, NodeJS, MariaDB, AWS(EC2, RDS, S3)  
   
-||<img src="https://user-images.githubusercontent.com/61001656/99264045-5487ee80-2863-11eb-85a9-cdff6c764c98.png" width="40%" align="center">|
+||<img src="https://user-images.githubusercontent.com/61001656/99264045-5487ee80-2863-11eb-85a9-cdff6c764c98.png" width="35%" align="center">|
 |----|----| 
 |소속|올바른코드|
 |소개|지게차와 같은 중장비의 렌트, 중고매매 서비스 |

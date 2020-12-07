@@ -39,4 +39,4 @@ Thank you!
 
 ## 🧐 Experience
 ✌️ <a href="https://github.com/Beoum/Beoum/blob/main/portfolio.md">Portfolio</a><br/>
-🤝 <a href="https://beoum.github.io/category/#%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80">Project Review</a>
+<!-- 🤝 <a href="https://beoum.github.io/category/#%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80">Project Review</a> -->

@@ -4,7 +4,17 @@
 * <a href="https://www.rightcode.co.kr">올바른코드 (2020.08 ~ 현재)</a>  
   
 ## 프로젝트 경력  
-  
+  ### 2. 와플농구 
+||<img src="#" width="35%" align="center">|
+|----|----| 
+|소속|올바른코드|
+|소개|농구 커뮤니티 플랫폼  |
+|기간|2020.12 |
+|역할|Back-end(100%) |
+|사용기술|TypeScript, NodeJS, MariaDB, AWS(EC2, RDS, S3) |
+|주요기능|실시간 채팅(socket.io)|
+|회고|<a href="#">보기(작성중)</a>|
+
 ### 1. 장비봇 
 ||<img src="https://user-images.githubusercontent.com/61001656/99264045-5487ee80-2863-11eb-85a9-cdff6c764c98.png" width="35%" align="center">|
 |----|----| 

@@ -5,7 +5,7 @@
   
 ## 프로젝트 경력  
   ### 2. 와플농구 
-||<img src="#" width="35%" align="center">|
+||<img src="https://user-images.githubusercontent.com/61001656/103435636-c8842780-4c54-11eb-8eaa-b8c1c8f2e786.png" width="35%" align="center">|
 |----|----| 
 |소속|올바른코드|
 |소개|농구 커뮤니티 플랫폼  |

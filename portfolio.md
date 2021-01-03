@@ -13,7 +13,7 @@
 |역할|Back-end(100%) |
 |사용기술|TypeScript, NodeJS, MariaDB, AWS(EC2, RDS, S3) |
 |주요기능|실시간 채팅(socket.io)|
-|회고|<a href="./retrospective/2020-12-31-신입개발자의 두번째 프로젝트 후기.md">보기</a>|
+|회고|<a href="https://beoum.github.io/개발일지/신입개발자의-두번째-프로젝트-후기/">보기</a>|
 
 ### 1. 장비봇 
 ||<img src="https://user-images.githubusercontent.com/61001656/99264045-5487ee80-2863-11eb-85a9-cdff6c764c98.png" width="35%" align="center">|
@@ -24,4 +24,4 @@
 |역할|Back-end(100%) |
 |사용기술|TypeScript, NodeJS, MariaDB, AWS(EC2, RDS, S3) |
 |주요기능|렌탈예약, 결제(아임포트)|
-|회고|<a href="./retrospective/2020-11-16-신입개발자의 첫번째 프로젝트 후기.md">보기</a>|
+|회고|<a href="https://beoum.github.io/개발일지/신입개발자의-첫번째-프로젝트-후기/">보기</a>|

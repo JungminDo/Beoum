@@ -7,13 +7,13 @@
 ## 프로젝트 경력  
 
   ### 3. 스마트바이저 
-||<img src="https://user-images.githubusercontent.com/61001656/110558731-5a913a80-8186-11eb-8dc1-02953ff4a544.png" width="34.5%" align="center">|
+||<img src="https://user-images.githubusercontent.com/61001656/110558731-5a913a80-8186-11eb-8dc1-02953ff4a544.png" width="33.9%" align="center">|
 |----|----| 
 |소속|올바른코드|
 |소개|브랜드 관리 플랫폼|
 |기간|2021.01 ~ 2021.03 |
 |역할|Back-end(100%), DB Modeling |
-|사용기술|TypeScript, NodeJS(Express), MariaDB, AWS(EC2, RDS, S3, Cloud Front) |
+|사용기술|TypeScript, NodeJS(Express), MariaDB,<br> AWS(EC2, RDS, S3, Cloud Front) |
 |주요기능|권한에 따른 User Management|
 |회고|작성중!|
 

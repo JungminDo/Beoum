@@ -7,7 +7,7 @@
 ## 프로젝트 경력  
 
   ### 3. 스마트바이저 
-||<img src="https://user-images.githubusercontent.com/61001656/110558731-5a913a80-8186-11eb-8dc1-02953ff4a544.png" width="35%" align="center">|
+||<img src="https://user-images.githubusercontent.com/61001656/110558731-5a913a80-8186-11eb-8dc1-02953ff4a544.png" width="34.5%" align="center">|
 |----|----| 
 |소속|올바른코드|
 |소개|브랜드 관리 플랫폼|

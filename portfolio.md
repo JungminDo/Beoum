@@ -14,7 +14,7 @@
 |기간|2021.01 ~ 2021.03 |
 |역할|Back-end(100%), DB Modeling |
 |사용기술|TypeScript, NodeJS(Express), MariaDB,<br> AWS(EC2, RDS, S3, Cloud Front) |
-|주요기능|권한에 따른 User Management|
+|주요기능|권한에 따른 User Management(가맹점용, 관리자용 각각 출시)|
 |회고|작성중!|
 
   ### 2. 와플농구 
